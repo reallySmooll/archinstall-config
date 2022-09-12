@@ -50,7 +50,8 @@
         "wget",
         "neofetch",
         "neovim",
-        "fish"
+        "fish",
+	"chrome-gnome-shell"
     ],
     "plugin": null,
     "profile": {
@@ -58,7 +59,7 @@
     },
     "script": "guided",
     "silent": false,
-    "sys-language": "l_PL.UTF-8",
+    "sys-language": "pl_PL.UTF-8",
     "timezone": "Europe/Warsaw",
     "version": "2.5.0"
 }
